@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:sparkles: Welcome everyone to my profile, my name is Rym Oualha and I am a computer science student interested in AI and its various subfields. I am also a Beta MLSA (Microsoft Learn Student Ambassador).
+
+💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
