@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 
 
 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
+
+
+### 🏆 Github Activities
+
+![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+
+---
