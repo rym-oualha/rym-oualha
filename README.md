@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-:sparkles: Welcome everyone to my profile, my name is Rym Oualha and I am a computer science student interested in AI and its various subfields. I am also a Beta MLSA (Microsoft Learn Student Ambassador).
+:sparkles: Welcome everyone to my profile, my name is Rym Oualha and I am a Computer Science Engineer fresh graduate interested in AI and its various subfields. I am also a Beta MLSA (Microsoft Learn Student Ambassador).
 
 
 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 
 ### 🏆 Github Activities
 
-![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+![Rym's GitHub stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
----
