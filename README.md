@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ### 🏆 Github Activities
 
-![Rym's GitHub stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+![Rym's GitHub stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&count_private=true&show_icons=true&theme=panda&icon_color=7fff00)
 
