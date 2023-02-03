@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-:sparkles: Welcome everyone to my profile, my name is Rym Oualha and I am a Computer Science Engineer fresh graduate interested in AI and its various subfields. I am also a Beta MLSA (Microsoft Learn Student Ambassador).
+:sparkles: Welcome everyone to my profile, my name is Rym Oualha. 
+
+I am a Junior ML Engineer interested in everything AI related with a strong background in Computer Science. 
+
+I was also previously a Beta MLSA (Microsoft Learn Student Ambassador).
 
 
-💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
+
+- 🔭 I’m currently working on extracting insights from satellite imagery using AI
+
+- 🌱 I’m currently learning Data Analysis
+
+- 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
