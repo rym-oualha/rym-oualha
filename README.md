@@ -26,6 +26,6 @@ I was also previously a Beta MLSA (Microsoft Learn Student Ambassador).
 
 - 🔭 I’m currently working on extracting insights from satellite imagery using AI
 
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analytics
 
 - 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
