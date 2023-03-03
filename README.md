@@ -33,8 +33,11 @@ I was also previously a Beta MLSA (Microsoft Learn Student Ambassador).
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rym-oualha&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rym-oualha&theme=omni)](https://git.io/streak-stats)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&theme=omni)](https://github.com/rym-oualha/github-readme-stats)
+
 
 ### Top Languages and tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=rym-oualha)](https://github.com/rym-oualha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rym-oualha&layout=compact&theme=omni)](https://github.com/rym-oualha/github-readme-stats)
