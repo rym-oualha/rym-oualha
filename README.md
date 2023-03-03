@@ -29,3 +29,12 @@ I was also previously a Beta MLSA (Microsoft Learn Student Ambassador).
 - 🌱 I’m currently learning Data Analytics
 
 - 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rym-oualha&theme=default)](https://git.io/streak-stats)
+
+### Top Languages and tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=rym-oualha)](https://github.com/rym-oualha/github-readme-stats)
