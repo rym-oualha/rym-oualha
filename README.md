@@ -22,18 +22,21 @@ I am a Junior ML Engineer interested in everything AI related with a strong back
 
 I was also previously a Beta MLSA (Microsoft Learn Student Ambassador).
 
+<br>
 
+- 🛰️ I’m currently working on extracting insights from Earth Observation data, combining Deep Learning with Remote Sensing to tackle real-world challenges.
 
-- 🔭 I’m currently working on extracting insights from satellite imagery using AI
+- 🌱 I’m currently learning JAX
 
-- 🌱 I’m currently learning Data Analytics
+- 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program
+  
+- ⚡ Fun Fact: When I’m not working, you’ll probably find me deep in the Harry Potter 🪄 universe—rereading the books, debating the best spells, or proving why Gryffindor is the ultimate house 🦁🔥. Bravery, daring, and a bit of reckless curiosity? Sounds a lot like tackling complex ML challenges!
 
-- 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program 
-
+<br>
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rym-oualha&theme=omni)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rym-oualha&theme=omni)](https://git.io/streak-stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&theme=omni)](https://github.com/rym-oualha/github-readme-stats)
 
