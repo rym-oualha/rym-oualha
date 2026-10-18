@@ -1,46 +1,38 @@
-### Hi there 👋
+# Hey, I'm Rym Oualha 👋
 
-<!--
-**rym-oualha/rym-oualha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 **Machine Learning Engineer | Earth Observation | Genomics | AI in Production**
 
-Here are some ideas to get you started:
+I'm a Machine Learning Engineer with **4 years of experience** building machine learning solutions across diverse domains, from satellite imagery and Earth observation to genomics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning complex data into meaningful insights and building ML solutions that go beyond experimentation to deliver real-world impact.
 
+### 🔬 Areas of Expertise
 
-:sparkles: Welcome everyone to my profile, my name is Rym Oualha. 
+- 🛰️ **Earth Observation & Remote Sensing** — applying machine learning and deep learning to satellite imagery and geospatial data.
+- 🧬 **Genomics & Machine Learning** — working with genomic data and delivering and serving ML models for biological applications.
+- 🤖 **Machine Learning Engineering** — developing practical, reliable, and scalable AI solutions.
 
-I am a Junior ML Engineer interested in everything AI related with a strong background in Computer Science. 
+### 🌱 Currently Focusing On
 
-I was also previously a Beta MLSA (Microsoft Learn Student Ambassador).
+- ⚙️ MLOps and production-grade machine learning systems.
+- 🚀 Model deployment, serving, monitoring, and scalability.
+- 🏗️ Building reliable ML pipelines that bridge the gap between research and production.
 
-<br>
+### 💬 A Little More About Me
 
-- 🛰️ I’m currently working on extracting insights from Earth Observation data, combining Deep Learning with Remote Sensing to tackle real-world challenges.
+- 🎓 Former Beta Microsoft Learn Student Ambassador.
+- 🤝 Always open to connecting, exchanging ideas, and collaborating on interesting ML projects.
+- ⚡ **Fun fact:** When I'm not working with models, I'm probably back in the Harry Potter universe, defending Gryffindor 🦁⚡. A little curiosity and courage go a long way in both magic and machine learning!
 
-- 🌱 I’m currently learning JAX
-
-- 💬 Feel free to ask me about the Microsoft Learn Student Ambassadors Program
-  
-- ⚡ Fun Fact: When I’m not working, you’ll probably find me deep in the Harry Potter 🪄 universe—rereading the books, debating the best spells, or proving why Gryffindor is the ultimate house 🦁🔥. Bravery, daring, and a bit of reckless curiosity? Sounds a lot like tackling complex ML challenges!
-
-<br>
+---
 
 ### :fire: My Stats :
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rym-oualha&theme=omni"/>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rym-oualha&theme=omni)](https://git.io/streak-stats)
+</p>
+<!--[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rym-oualha&theme=omni)](https://git.io/streak-stats)-->
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=rym-oualha&theme=omni)](https://github.com/rym-oualha/github-readme-stats)
+---
 
-
-### Top Languages and tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rym-oualha&layout=compact&theme=omni)](https://github.com/rym-oualha/github-readme-stats)
+✨ *Building intelligent solutions, from complex data to real-world impact.*
